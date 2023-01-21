@@ -1,0 +1,9 @@
+ext {
+    var = '5.6.4'
+
+}
+buildscript {
+    dependencies {
+        classpath "com.android.tools.build:gradle"
+    }
+}// Top-level build file where you can add configuration options common to all sub-projects/modules.
